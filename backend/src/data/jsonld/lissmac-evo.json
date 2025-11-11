@@ -1,0 +1,1487 @@
+{
+    "id": "urn:ifric:ifx-eur-nld-ast-1ab33ab3-0520-5ab3-b4a9-0bf359ebcd7c",
+    "type": "deburringMachine",
+    "additional_files": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "resource"
+        },
+        "value": "NULL"
+    },
+    "ambient_operating_temperature_max": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "°C"
+        },
+        "value": 0
+    },
+    "ambient_operating_temperature_min": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "°C"
+        },
+        "value": 0
+    },
+    "asset_category": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "application"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "Deburring Machine"
+    },
+    "asset_communication_protocol": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "value": "opc-ua"
+    },
+    "asset_manufacturer_address": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "Lanzstraße 4, 88410, Wurzach, Germany"
+    },
+    "asset_manufacturer_name": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "translation": {
+            "type": "Property",
+            "value": {
+                "default": true,
+                "language": "English",
+                "value": "LISSMAC"
+            }
+        },
+        "value": "LISSMAC"
+    },
+    "asset_serial_number": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "11221212121"
+    },
+    "asset_status": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "application"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "application"
+        },
+        "value": "incomplete"
+    },
+    "atmospheric_pressure_max": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "mbar"
+        },
+        "value": 0
+    },
+    "atmospheric_pressure_min": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "mbar"
+        },
+        "value": 0
+    },
+    "badges_seals": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "resource"
+        },
+        "value": "NULL"
+    },
+    "batch_number": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "1"
+    },
+    "brand_address": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "value": "Munich, Germany"
+    },
+    "brand_image": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "https://iff-dev.s3-eu-central-1.ionoscloud.com/file-1754988613244-867592959.png"
+    },
+    "brand_owner": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "LISSMAC"
+    },
+    "certifications": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "Compliance&Certification"
+        },
+        "value": "NULL"
+    },
+    "co2_emmision_per_unit_production": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "kg"
+        },
+        "value": "NULL"
+    },
+    "co2_emmision_per_unit_year": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "kg"
+        },
+        "value": "NULL"
+    },
+    "complaince_documentation": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "Compliance&Certification"
+        },
+        "value": "NULL"
+    },
+    "control_system_type": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "value": "NULL"
+    },
+    "country_of_manufacturing": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "Germany"
+    },
+    "creation_date": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "application"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "03.04.2025 11:59:11"
+    },
+    "depth": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "packaging"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "MM"
+        },
+        "value": 1100
+    },
+    "disposal_guidelines": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "instruction"
+        },
+        "value": "NULL"
+    },
+    "dustiness_max": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "mg/m³"
+        },
+        "value": 0
+    },
+    "eclass_template_id": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "application"
+        },
+        "readOnly": {
+            "type": "Property",
+            "value": true
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "67ee5b88cac399beae45b670"
+    },
+    "electric_power": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "W"
+        },
+        "value": 0
+    },
+    "energy_efficiency_labels": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "NULL"
+    },
+    "eu_regulation_reference": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "Compliance&Certification"
+        },
+        "value": "NULL"
+    },
+    "feed_mechanism": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "instruction"
+        },
+        "value": "NULL"
+    },
+    "frequency": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "Hz"
+        },
+        "value": 0
+    },
+    "hazard_references": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "instruction"
+        },
+        "value": "NULL"
+    },
+    "height": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "packaging"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "MM"
+        },
+        "value": 1100
+    },
+    "ifx_ready": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "application"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "NULL"
+    },
+    "instruction_documents": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "instruction"
+        },
+        "value": "NULL"
+    },
+    "links": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "resource"
+        },
+        "value": "NULL"
+    },
+    "logo_manufacturer": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "https://iff-dev.s3-eu-central-1.ionoscloud.com/file-1754988589963-347179694.png"
+    },
+    "marking_certification_country": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "Compliance&Certification"
+        },
+        "value": "NULL"
+    },
+    "marking_standard": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "Compliance&Certification"
+        },
+        "value": "NULL"
+    },
+    "net_weight": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "packaging"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "kg"
+        },
+        "value": 0
+    },
+    "noise_level_labels": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "instruction"
+        },
+        "value": "NULL"
+    },
+    "overall_weight": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "packaging"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "kg"
+        },
+        "value": 0
+    },
+    "pif_documentation": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "Compliance&Certification"
+        },
+        "value": "NULL"
+    },
+    "place_of_manufacture": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "Lissmac"
+    },
+    "power_source": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "value": "NULL"
+    },
+    "product_image": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "https://iff-dev.s3-eu-central-1.ionoscloud.com/file-1743674242494-760606352.jpg"
+    },
+    "product_name": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "translation": {
+            "type": "Property",
+            "value": {
+                "default": true,
+                "language": "English",
+                "value": "SBM-L G1S2 EVO"
+            }
+        },
+        "value": "SBM-L G1S2 EVO"
+    },
+    "production_date": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "2025-04-03"
+    },
+    "recycling_codes": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "packaging"
+        },
+        "value": "NULL"
+    },
+    "relative_humidity_max": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "%"
+        },
+        "value": 0
+    },
+    "relative_humidity_min": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "%"
+        },
+        "value": 0
+    },
+    "safety_features": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "instruction"
+        },
+        "value": "NULL"
+    },
+    "software_compatibility": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "value": "NULL"
+    },
+    "standard_certificate_marking": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "Compliance&Certification"
+        },
+        "value": "NULL"
+    },
+    "stock_keeping_unit": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "545"
+    },
+    "supplier_product_description": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "translation": {
+            "type": "Property",
+            "value": {
+                "default": true,
+                "language": "English",
+                "value": "<p><span style=\"background-color: rgb(241, 243, 245); color: rgb(49, 49, 49);\">The SBM-L G1S2 EVO grinding and deburring machines were developed for double-sided deburring and edge rounding of workpieces in a single operation. The LISSMAC machines are used for deburring sheet metal and for processing sheet metal parts, laser-cut parts, and stamped parts.</span></p><p><br></p><p><span style=\"background-color: rgb(241, 243, 245); color: rgb(49, 49, 49);\">The L series is equipped with three units each on the top and bottom. The processing of stainless steel, steel, aluminum, or non-ferrous metal workpieces can be performed either on the top, bottom, or both sides. Double-sided sheet metal processing and edge rounding in a single operation enables time savings of up to 60%. Furthermore, seamless integration with automation solutions or production lines is possible. The machine concept ensures ergonomic operation and a pleasant working environment free from dirt, dust, and noise pollution.</span></p>"
+            }
+        },
+        "value": "<p><span style=\"background-color: rgb(241, 243, 245); color: rgb(49, 49, 49);\">The SBM-L G1S2 EVO grinding and deburring machines were developed for double-sided deburring and edge rounding of workpieces in a single operation. The LISSMAC machines are used for deburring sheet metal and for processing sheet metal parts, laser-cut parts, and stamped parts.</span></p><p><br></p><p><span style=\"background-color: rgb(241, 243, 245); color: rgb(49, 49, 49);\">The L series is equipped with three units each on the top and bottom. The processing of stainless steel, steel, aluminum, or non-ferrous metal workpieces can be performed either on the top, bottom, or both sides. Double-sided sheet metal processing and edge rounding in a single operation enables time savings of up to 60%. Furthermore, seamless integration with automation solutions or production lines is possible. The machine concept ensures ergonomic operation and a pleasant working environment free from dirt, dust, and noise pollution.</span></p>"
+    },
+    "supply_chain_model": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "Compliance&Certification"
+        },
+        "value": "Single Entity Production"
+    },
+    "supply_voltage": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "V"
+        },
+        "value": 0
+    },
+    "usage_instructions": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "instruction"
+        },
+        "value": "NULL"
+    },
+    "user_manual": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "instruction"
+        },
+        "value": "NULL"
+    },
+    "user_manuals": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "instruction"
+        },
+        "value": "https://iff-dev.s3-eu-central-1.ionoscloud.com/file-1754988397626-734228023.pdf"
+    },
+    "voltage_type": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "parameter"
+        },
+        "value": "NULL"
+    },
+    "warning_message": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "instruction"
+        },
+        "value": "NULL"
+    },
+    "warranty_till": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "instruction"
+        },
+        "value": "NULL"
+    },
+    "width": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "packaging"
+        },
+        "unit": {
+            "type": "Property",
+            "value": "MM"
+        },
+        "value": 1200
+    },
+    "eclass:brand": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "NULL"
+    },
+    "eclass:customs_tariff_number": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "retailer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "packaging"
+        },
+        "value": "NULL"
+    },
+    "eclass:gln_of_manufacturer": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "Compliance&Certification"
+        },
+        "value": 0
+    },
+    "eclass:gln_of_supplier": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "retailer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "Compliance&Certification"
+        },
+        "value": 0
+    },
+    "eclass:gtin": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "NULL"
+    },
+    "eclass:hs-code_of_the_wco": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "Compliance&Certification"
+        },
+        "value": 0
+    },
+    "eclass:manufacturer_product_description": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": true
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "translation": {
+            "type": "Property",
+            "value": {
+                "default": true,
+                "language": "English",
+                "value": "The grinding and deburring machines are suitable for double-sided machining of workpieces made of stainless steel, steel, aluminum or non-ferrous metal."
+            }
+        },
+        "value": "The grinding and deburring machines are suitable for double-sided machining of workpieces made of stainless steel, steel, aluminum or non-ferrous metal."
+    },
+    "eclass:manufacturer_product_family": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "NULL"
+    },
+    "eclass:manufacturer_product_order_suffix": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "NULL"
+    },
+    "eclass:manufacturer_product_root": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "NULL"
+    },
+    "eclass:name_of_supplier": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "retailer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "NULL"
+    },
+    "eclass:product_article_number_of_manufacturer": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "manufacturer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "NULL"
+    },
+    "eclass:product_article_number_of_supplier": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "retailer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "NULL"
+    },
+    "eclass:supplier_product_description": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "retailer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "NULL"
+    },
+    "eclass:supplier_product_family": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "retailer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "NULL"
+    },
+    "eclass:supplier_product_order_suffix": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "retailer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "NULL"
+    },
+    "eclass:supplier_product_root": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "retailer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "identification"
+        },
+        "value": "NULL"
+    },
+    "eclass:supplier_product_type": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "retailer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "model"
+        },
+        "value": "NULL"
+    },
+    "eclass:type_of_customs_tariff_number": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "retailer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "packaging"
+        },
+        "value": "NULL"
+    },
+    "eclass:use_of_customs_tariff_number": {
+        "type": "Property",
+        "model": {
+            "type": "Property",
+            "value": false
+        },
+        "owner_ref": {
+            "type": "Property",
+            "value": "retailer"
+        },
+        "segment": {
+            "type": "Property",
+            "value": "packaging"
+        },
+        "value": "NULL"
+    },
+    "@context": [
+        "https://industryfusion.github.io/contexts/tutorial/v0.1-dev/context.jsonld"
+    ]
+}
